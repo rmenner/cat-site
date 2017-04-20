@@ -1,1 +1,1 @@
-# Just a quick demo website to help demonstrations
+Just a quick demo website
